@@ -11,7 +11,7 @@ This is the Introductory Rooms of Try Hack me.
 | How to use TryHackMe          | [https://tryhackme.com/room/howtousetryhackme](#)     | Done                 |
 | Welcome                       | [https://tryhackme.com/room/welcome](#)               | Done                 |
 | Tutorial                      | [https://tryhackme.com/room/tutorial](#)              | Done                 |
-| OpenVPN                       | [https://tryhackme.com/room/openvpn](#)               |                  |
+| OpenVPN                       | [https://tryhackme.com/room/openvpn]               |                  |
 | Learning Cyber Security       | [https://tryhackme.com/room/beginnerpathintro](#)     |                  |
 | Starting Out In Cyber Sec     | [https://tryhackme.com/room/startingoutincybersec](#) |                  |
 | Introductory Researching      | [https://tryhackme.com/room/introtoresearch](#)       |                  |
