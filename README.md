@@ -1,5 +1,5 @@
-# TryHackMe
-<h1>Path to Cybersecurity</h1>
+
+<h1>Path to Cybersecurity with Try Hack Me</h1>
 
 <h2>Introductory Rooms</h2>
 
