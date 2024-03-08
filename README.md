@@ -7,10 +7,10 @@ This is the Introductory Rooms of Try Hack me.
 
 | Rooms Title                   | Room Link                                             | Done/In progress |
 |-------------------------------|-------------------------------------------------------|------------------|
-| Welcome                       | [https://tryhackme.com/room/hello](#)                 |                  |
-| How to use TryHackMe          | [https://tryhackme.com/room/howtousetryhackme](#)     |                  |
-| Welcome                       | [https://tryhackme.com/room/welcome](#)               |                  |
-| Tutorial                      | [https://tryhackme.com/room/tutorial](#)              |                  |
+| Welcome                       | [https://tryhackme.com/room/hello](#)                 | Done                 |
+| How to use TryHackMe          | [https://tryhackme.com/room/howtousetryhackme](#)     | Done                 |
+| Welcome                       | [https://tryhackme.com/room/welcome](#)               | Done                 |
+| Tutorial                      | [https://tryhackme.com/room/tutorial](#)              | Done                 |
 | OpenVPN                       | [https://tryhackme.com/room/openvpn](#)               |                  |
 | Learning Cyber Security       | [https://tryhackme.com/room/beginnerpathintro](#)     |                  |
 | Starting Out In Cyber Sec     | [https://tryhackme.com/room/startingoutincybersec](#) |                  |
