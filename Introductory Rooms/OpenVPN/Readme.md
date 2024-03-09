@@ -6,11 +6,16 @@
 2. After installing the OpenVPN setup wizard, run through the steps. If OpenVPN does not automatically start afterwards, run the OpenVPN executable. Ensure you are running it as an administrator.<br>
   ![Screenshot 2024-03-09 172928](https://github.com/konboot/TryHackMe/assets/53315283/20ecb1b7-8c1b-4f7a-9e3a-f94c39672416)
 <br>
-3. Scroll to the top of the page and download your configuration found in the Machines tab.<br><br>
-4. If your region does not appear on the list, select the one closest to you.<br><br>
-5. In the bottom right of your screen, on the task bar, press the click the icon that looks like an up arrow (^). There should be an icon within the new window that looks like a monitor with a plug, right-click. This is where you will manage your OpenVPN connections.<br><br>
-6. Next hover over Import, select Import file and navigate to your OpenVPN profile.<br><br>
-7. Finally, right-click on the OpenVPN icon again, select Connect and wait for it to notify you that you have been connected successfully.</p>
+3. Scroll to the top of the page and download your configuration found in the Machines tab.<br>![image](https://github.com/konboot/TryHackMe/assets/53315283/77030e42-0054-4634-90e3-7d9297625fcd)
+<br>
+4. If your region does not appear on the list, select the one closest to you.<br>![image](https://github.com/konboot/TryHackMe/assets/53315283/a784d9f9-b00d-4abe-abf5-dc803e8ea5e9)
+<br>
+5. In the bottom right of your screen, on the task bar, press the click the icon that looks like an up arrow (^). There should be an icon within the new window that looks like a monitor with a plug, right-click. This is where you will manage your OpenVPN connections.<br>
+<br>
+6. Next hover over Import, select Import file and navigate to your OpenVPN profile.<br>![Screenshot 2024-03-09 174932](https://github.com/konboot/TryHackMe/assets/53315283/1ac18504-2277-467c-88b1-c4ddf0c55ece)
+<br>
+7. Finally, right-click on the OpenVPN icon again, select Connect and wait for it to notify you that you have been connected successfully.<br>![Screenshot 2024-03-09 175042](https://github.com/konboot/TryHackMe/assets/53315283/1158adcd-e6a9-482f-acd9-98e03213a00d)
+</p>
 <br>
 
 
