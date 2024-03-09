@@ -7,5 +7,5 @@
 5. In the bottom right of your screen, on the task bar, press the click the icon that looks like an up arrow (^). There should be an icon within the new window that looks like a monitor with a plug, right-click. This is where you will manage your OpenVPN connections.<br>
 6. Next hover over Import, select Import file and navigate to your OpenVPN profile.<br>
 7. Finally, right-click on the OpenVPN icon again, select Connect and wait for it to notify you that you have been connected successfully.</p>
-![alt text](https://github.com/konboot/TryHackMe/assets/53315283/460fac68-d728-45d0-a420-3c7ab4a314c2)
 
+![image](https://github.com/konboot/TryHackMe/assets/53315283/0be2f9bc-39bf-4ffb-b17e-052b778a62b1)
