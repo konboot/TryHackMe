@@ -16,11 +16,11 @@
 
 <h2 align="center">Task 5: the Dashboard</h2>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![image](https://github.com/konboot/TryHackMe/assets/53315283/af7fe0c7-d095-4d17-aba5-4cc20f10d308)
 
 <h2 align="center">Task 6: Navigation</h2>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![image](https://github.com/konboot/TryHackMe/assets/53315283/956f349e-1463-460a-81ca-447b46ddb30e)
 
 <h2 align="center">Task 7: Options</h2>
 
