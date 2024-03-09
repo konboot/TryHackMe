@@ -1,6 +1,6 @@
 <h1>OpenVPN</h1>
 <p>OpenVPN is a virtual private network (VPN) system that implements techniques to create secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. It implements both client and server applications.</p>
-<p>1. To connect to OpenVPN on Windows, you will need to use the OpenVPN connect software provided on their website.  Download the OpenVPN GUI application Open the link, select the most recent release and download the version that is supported on your machine (x64, x32, ARM).<br>
+<p>1. To connect to OpenVPN on Windows, you will need to use the OpenVPN connect software provided on their website. <br>Download the OpenVPN GUI application with this link https://openvpn.net/community-downloads/ select the most recent release and download the version that is supported on your machine (x64, x32, ARM).<br>
 2. After installing the OpenVPN setup wizard, run through the steps. If OpenVPN does not automatically start afterwards, run the OpenVPN executable. Ensure you are running it as an administrator.<br>
 3. Scroll to the top of the page and download your configuration found in the Machines tab.<br>
 4. If your region does not appear on the list, select the one closest to you.<br>
