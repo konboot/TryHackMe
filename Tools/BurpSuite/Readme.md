@@ -53,19 +53,80 @@ Simply put, Burp Suite captures and enables manipulation of all the HTTP/HTTPS t
 <div align="center>
 
 **1. Tools Settings** includes the settings required by Proxy, Intruder, Repaeater, Sequencer.
-<br>**2. Project Settings** which includes:
+
+**2. Project Settings** which includes:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Scope: It can be target scope or Out of scope.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Tasks: We can group the tasks by resource pools, auto-start the new task and automate or schedule the tasks.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Logging: To control logging of HTTP requests and responses to log files.
-<br>**3. Sessions tab** is for handling the session rules, cookie jar and macros.
-<br>**4. Network tab** is for checking the connections. also includes:
+
+**3. Sessions tab** is for handling the session rules, cookie jar and macros.
+
+**4. Network tab** is for checking the connections. also includes:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. TLS: Here we can do TLS negotiations, configure and control the client and server TLS certificates.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. HTTP: Includes Allowed redirect types, Status 100 response handling. HTTP/1 used to keep alive and HTTP/2 used for outbound connections over TLS.
-<br>**3. User Interface** contains: 
+
+**5. User Interface** contains: 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Inspector and message editor: Used to adjust how widgets are displayed in inspector while message editor is used to adjust which views are available.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Hotkeys: Allows you to change the keybindings for shortcuts.
-<br>**5. Suite tab** is for checking updates , performance feedback, temporary file location and control the closing behaviour of BurpSuite. 
-<br>**6. Extension tab** handles the extension on startup and configure the environment that should be used to execute the extensions written in Java/Python/Ruby.
 
-![image](https://github.com/konboot/TryHackMe/assets/53315283/2a0a1e95-1d06-421b-94d9-b580772bff61)
+**6. Suite tab** is for checking updates , performance feedback, temporary file location and control the closing behaviour of BurpSuite. 
+
+**7. Extension tab** handles the extension on startup and configure the environment that should be used to execute the extensions written in Java/Python/Ruby.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![image](https://github.com/konboot/TryHackMe/assets/53315283/2a0a1e95-1d06-421b-94d9-b580772bff61)
+</div>
+
+<h2 align="center"> Burp Proxy</h2>
+<div>
+<h3>Key Points</h3>
+
+- **Intercepting Requests**:
+  - Requests made through Burp Proxy are stopped before reaching the destination server.
+  - These requests are visible in the Proxy tab for further actions like editing, forwarding, or dropping them.
+  - You can turn off interception by clicking the "Intercept is on" button.
+
+![image](https://github.com/konboot/TryHackMe/assets/53315283/dfc11ba6-1713-456c-9625-4ff70f0cff1d)
+
+- **Taking Control**:
+  - Intercepting requests gives testers complete control over web traffic, which is essential for testing web applications.
+
+- **Capture and Logging**:
+  - Burp Suite automatically captures and logs requests passing through the proxy, even when interception is disabled.
+  - This logging feature is useful for analyzing and reviewing requests later.
+
+- **WebSocket Support**:
+  - Burp Suite can also capture and log WebSocket communications, aiding in the analysis of web applications.
+
+- **Logs and History**:
+  - Captured requests are stored in HTTP history and WebSocket history sub-tabs for retrospective analysis.
+  - Requests can be sent to other Burp modules for further processing as needed.
+
+- **Proxy-Specific Options**:
+  - Clicking the Proxy settings button provides access to various options for controlling the behavior and functionality of the Proxy.
+  - It's important to familiarize yourself with these options to optimize the usage of Burp Proxy.
+
+<h3>Notable Features</h3>
+
+- **Response Interception**:
+  - By default, the proxy doesn't stop server responses unless you ask it to for specific requests.
+  - You can enable response interception using the "Intercept responses based on the following rules" checkbox and defining rules for when to intercept.
+
+    ![Screenshot 2024-03-10 182944](https://github.com/konboot/TryHackMe/assets/53315283/7b70a60d-31c9-4618-a82d-0cb88e80fd86)
+
+
+- **Match and Replace**:
+  - In the Proxy settings, there's a "Match and Replace" section.
+  - This feature lets you use regular expressions (regex) to change incoming and outgoing requests dynamically.
+  - You can do things like modifying the user agent or changing cookies using this feature.
+ 
+    ![image](https://github.com/konboot/TryHackMe/assets/53315283/b4f086e8-c03e-461a-adc2-151f69865c0f)
+
+<h3>Add Foxy Proxy Extension:</h3>
+<div >
+
+  - Download the Foxy Proxy extension.
+  - Add the following details.
+
+  ![image](https://github.com/konboot/TryHackMe/assets/53315283/97a9ee4e-1604-4592-8690-3da339b622dc)
+</div>
 </div>
