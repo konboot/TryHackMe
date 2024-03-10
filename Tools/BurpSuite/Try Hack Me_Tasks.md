@@ -24,11 +24,11 @@
 
 <h2 align="center">Task 7: Options</h2>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![image](https://github.com/konboot/TryHackMe/assets/53315283/7a92233a-78b1-45e5-98d4-cb2f83228df5)
 
 <h2 align="center">Task 8: Introduction to the Burp Proxy</h2>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![image](https://github.com/konboot/TryHackMe/assets/53315283/9a65a671-bd5f-4913-acd9-f57508b51215)
 
 <h2 align="center">Task 9: Connecting through the Proxy (FoxyProxy)</h2>
 
