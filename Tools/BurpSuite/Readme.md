@@ -5,9 +5,10 @@
 <p align="center"> Burp Suite is a Java-based framework designed to serve as a comprehensive solution for conducting web application penetration testing. 
 It has become the industry standard tool for hands-on security assessments of web and mobile applications, including those that rely on application programming interfaces (APIs).
 Simply put, Burp Suite captures and enables manipulation of all the HTTP/HTTPS traffic between a browser and a web server. </p>
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; ![Screenshot_2024-03-09_185546-removebg-preview](https://github.com/konboot/TryHackMe/assets/53315283/4b9c792a-822a-4bfc-9758-5ae3b0607186)
-
+<div align="center">
+  
+![Screenshot_2024-03-09_185546-removebg-preview](https://github.com/konboot/TryHackMe/assets/53315283/4b9c792a-822a-4bfc-9758-5ae3b0607186)
+</div>
 
 
 <h2 align="center">Key features:</h3>
@@ -20,6 +21,7 @@ Simply put, Burp Suite captures and enables manipulation of all the HTTP/HTTPS t
 <br><br><b>6. Sequencer:</b> Sequencer is typically employed when assessing the randomness of tokens, such as session cookie values or other supposedly randomly generated data. If the algorithm used for generating these values lacks secure randomness, it can expose avenues for devastating attacks.</p>
 
 <h2 align="center">BurpSuite Dashboard</h2>
+<br>
 
 ![image](https://github.com/konboot/TryHackMe/assets/53315283/d6adf6f8-fd04-40a8-bfe1-9f60a737f689)
 <br><br>
@@ -30,3 +32,19 @@ Simply put, Burp Suite captures and enables manipulation of all the HTTP/HTTPS t
 <b>3. Issue Activity:</b> This section is specific to Burp Suite Professional. It displays the vulnerabilities identified by the automated scanner, ranked by severity and filterable based on the certainty of the vulnerability.
 <br><br>
 <b>4. Advisory:</b> The Advisory section provides more detailed information about the identified vulnerabilities, including references and suggested remediations. This information can be exported into a report. In Burp Suite Community, this section may not show any vulnerabilities.
+
+<h2 align="center">Keyboard shortcuts</h2>
+<br>
+<div align="center">
+
+| Shortcut        | Tab          |
+|-----------------|--------------|
+| Ctrl + Shift + D | Dashboard    |
+| Ctrl + Shift + T | Target       |
+| Ctrl + Shift + P | Proxy        |
+| Ctrl + Shift + I | Intruder     |
+| Ctrl + Shift + R | Repeater     |
+
+</div>
+
+
