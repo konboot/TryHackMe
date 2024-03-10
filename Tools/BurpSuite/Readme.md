@@ -48,3 +48,22 @@ Simply put, Burp Suite captures and enables manipulation of all the HTTP/HTTPS t
 </div>
 
 
+<h2 align="center">Tabs in BurpSuite</h2>
+<h3 align="center">Settings</h3>
+<div align="center>
+  
+![image](https://github.com/konboot/TryHackMe/assets/53315283/2a0a1e95-1d06-421b-94d9-b580772bff61)
+<br>**1. Tools Settings** includes the settings required by Proxy, Intruder, Repaeater, Sequencer.
+<br>**2. Project Settings** which includes:
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Scope: It can be target scope or Out of scope.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Tasks: We can group the tasks by resource pools, auto-start the new task and automate or schedule the tasks.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Logging: To control logging of HTTP requests and responses to log files.
+<br>**3. Sessions tab** is for handling the session rules, cookie jar and macros.
+<br>**4. Network tab** is for checking the connections. also includes:
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. TLS: Here we can do TLS negotiations, configure and control the client and server TLS certificates.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. HTTP: Includes Allowed redirect types, Status 100 response handling. HTTP/1 used to keep alive and HTTP/2 used for outbound connections over TLS.
+<br>**3. User Interface** contains: 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Inspector and message editor: Used to adjust how widgets are displayed in inspector while message editor is used to adjust which views are available.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Hotkeys: Allows you to change the keybindings for shortcuts.
+<br>**5. Suite tab** is for checking updates , performance feedback, temporary file location and control the closing behaviour of BurpSuite. 
+<br>**6. Extension tab** handles the extension on startup and configure the environment that should be used to execute the extensions written in Java/Python/Ruby.
