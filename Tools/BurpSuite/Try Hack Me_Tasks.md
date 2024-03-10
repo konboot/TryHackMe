@@ -35,27 +35,43 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 <h2 align="center">Task 10: Site Map and Issue Definitions</h2>
+<div align="center">
+<p> Add the following details in Foxy Proxy.</p>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![image](https://github.com/konboot/TryHackMe/assets/53315283/97a9ee4e-1604-4592-8690-3da339b622dc)
+<p>Enable the Burp</p>
 
+ ![image](https://github.com/konboot/TryHackMe/assets/53315283/6bb72dcd-d425-4c44-adaf-69885b7269e1)
+<p>Turn on the Intercept</p>
+
+![image](https://github.com/konboot/TryHackMe/assets/53315283/c28bca81-35cf-4467-a736-ed17cc483bff)
+<p>Enter the IP on your browser.</p>
+
+![image](https://github.com/konboot/TryHackMe/assets/53315283/e17257bd-0d86-443b-be6b-255d9d75c3ff)
+<p>You will get like this in browser. Click on Forward tab.</p>
+
+![image](https://github.com/konboot/TryHackMe/assets/53315283/9f0bbe92-534d-4baf-acd0-0cab69faa10d)
+
+</div>
 <h2 align="center">Task 11: The BurpSuite Browser</h2>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![image](https://github.com/konboot/TryHackMe/assets/53315283/9a65a671-bd5f-4913-acd9-f57508b51215)
 
 <h2 align="center">Task 12: Scoping and Targeting</h2>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![image](https://github.com/konboot/TryHackMe/assets/53315283/9a65a671-bd5f-4913-acd9-f57508b51215)
 
 <h2 align="center">Task 13: Proxying HTTPS</h2>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![image](https://github.com/konboot/TryHackMe/assets/53315283/9a65a671-bd5f-4913-acd9-f57508b51215)
 
 <h2 align="center">Task 14: Example Attack</h2>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![image](https://github.com/konboot/TryHackMe/assets/53315283/9a65a671-bd5f-4913-acd9-f57508b51215)
 
 <h2 align="center">Task 15: Conclusion</h2>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![image](https://github.com/konboot/TryHackMe/assets/53315283/9a65a671-bd5f-4913-acd9-f57508b51215)
+
 
 
