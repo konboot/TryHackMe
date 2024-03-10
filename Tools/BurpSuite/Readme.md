@@ -128,5 +128,33 @@ Simply put, Burp Suite captures and enables manipulation of all the HTTP/HTTPS t
   - Add the following details.
 
   ![image](https://github.com/konboot/TryHackMe/assets/53315283/97a9ee4e-1604-4592-8690-3da339b622dc)
+
+<h2 align="center">Scoping and Tageting</h2>
+
+
+- **Defining Scope**:
+  - By setting a scope, we decide what Burp Suite logs and proxies.
+  - We can limit Burp Suite to target specific web applications for testing.
+
+- **Adding Targets to Scope**:
+  - Switch to the Target tab.
+  - Right-click on the target from the list and select "Add To Scope."
+  - Burp will ask if we want to stop logging anything not in scope; usually, we select yes.
+
+- **Checking Scope**:
+  - Switch to the Scope settings sub-tab within the Target tab.
+  - Here, we can include or exclude domains/IPs to control our target scope.
+
+- **Understanding Scope Settings**:
+  - The Scope settings window is powerful and worth understanding.
+  - It helps us control what we're testing and what we're not.
+
+- **Preventing Intercept of Out-of-Scope Traffic**:
+  - Even if logging for out-of-scope traffic is disabled, the proxy will still intercept everything.
+  - To prevent this, go to the Proxy settings sub-tab and select "And URL Is in target scope" from the "Intercept Client Requests" section.
+    
+    ![image](https://github.com/konboot/TryHackMe/assets/53315283/1cfbfd54-16d6-405e-b78d-843cddacb44d)
+
 </div>
+<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 </div>
