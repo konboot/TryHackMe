@@ -17,3 +17,10 @@
 <p>Check the site and find the breach amount.</p>
 
 ![image](https://github.com/konboot/TryHackMe/assets/53315283/accb2ac2-08f4-4205-adcc-2bbfce161dfd)
+
+<h2 align="center">Task3: Learning Roadmap
+<p align="center">
+  
+![image](https://github.com/konboot/TryHackMe/assets/53315283/d8606f33-e82c-4c18-928a-e23176f91637)
+</p>
+</h2>
