@@ -13,7 +13,7 @@
 
 ![image](https://github.com/konboot/TryHackMe/assets/53315283/49d1b029-7d4c-43f2-8acc-1b0d239b68b5)
 
-<h2 align="center">Defensive Security</h2>
+<h2 align="center">Task3: Defensive Security</h2>
 <p><B>Security Analyst: </B>This is an individual in an organisation who's job is to monitor various systems in the organisation and detect whether any of these systems are being attacked. To do this, you need to understand how underlying technologies work and then understand what attacks against these technologies look like. </p>
 Rooms you can do:
 - Detect Attacks Using Splunk
