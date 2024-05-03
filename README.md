@@ -19,7 +19,7 @@ This is the Introductory Rooms of Try Hack me.
 | Regular expressions           | https://tryhackme.com/room/catregex                   | Done                 |
 
 
-<h2>Linux</h2>
+<h2>Linux Fundamentals</h2>
 
 | Rooms Title                   | Room Link                                             | Done/In progress |
 |-------------------------------|-------------------------------------------------------|------------------|
