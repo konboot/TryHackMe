@@ -18,3 +18,12 @@ This is the Introductory Rooms of Try Hack me.
 | CC: Pen Testing               | https://tryhackme.com/room/ccpentesting               |                  |
 | Regular expressions           | https://tryhackme.com/room/catregex                   | Done                 |
 
+
+<h2>Linux</h2>
+| Rooms Title                   | Room Link                                             | Done/In progress |
+|-------------------------------|-------------------------------------------------------|------------------|
+| Linux Modules                 | https://tryhackme.com/room/linuxmodules               |                  |
+| Linux Fundamentals Part1      | https://tryhackme.com/room/linuxfundamentalspart1     |                  |
+| Linux Strength Training       | https://tryhackme.com/room/linuxstrengthtraining      |                  |
+| Linux File System Analysis    | https://tryhackme.com/room/linuxfilesystemanalysis    |                  |
+| Linux Backdoors               | https://tryhackme.com/room/linuxbackdoors             |                  |
